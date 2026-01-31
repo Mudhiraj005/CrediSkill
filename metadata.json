@@ -1,0 +1,8 @@
+{
+  "name": "SkillMatch AI",
+  "description": "An AI-powered skill validation, learning, and hiring platform featuring high-security testing environments, AI-driven career roadmaps, and ATS resume optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
